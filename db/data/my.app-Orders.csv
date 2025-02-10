@@ -1,0 +1,2 @@
+ID,customer_ID,orderDate,totalAmount,currency,createdAt,createdBy,modifiedAt,modifiedBy
+21687649-1fef-4b14-97c9-c3cf838b091f,12883461-c35e-4d6e-a839-da64284f511d,2004-03-21T14:00:00.000Z,28.84,649,2002-07-08T14:00:00.000Z,createdBy.cwuap@example.com,2007-11-25T14:00:00.000Z,modifiedBy.cwuap@example.com
